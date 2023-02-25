@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DoRegisterEmptyEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9781281-3cf2-47d7-b184-8df35bd093f9</testCaseGuid>
+</TestCaseEntity>
